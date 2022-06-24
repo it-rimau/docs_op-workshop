@@ -9,4 +9,4 @@ Module ini digunakan untuk membuat pesanan barang yang operator pesan tidak dida
 * Sparepart NO : Nomor sparepart
 * QYT : Jumlah Sparepart yang dibutuhkan
 * Workshop : Nama workshop dimana anda berada (Masukan dengan list yang disediakan)
-* WO NUMBER :thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::thumbsup: Masukan WO number kendaraan (ketik atau cari dengan list yang disediakan)
+* WO NUMBER : Masukan WO number kendaraan (ketik atau cari dengan list yang disediakan)
